@@ -1,0 +1,5 @@
+{
+    "require": {
+        "graycore/magento2-cors": "^1.2"
+    }
+}
